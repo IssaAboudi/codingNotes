@@ -1,12 +1,13 @@
+
 # Programming Notes
 
-[Home](./HomePage.md)
+[Home](./Home.md)
 
-[CPP Formatting](./Format.md)
+[CPP Formatting](./cpp/Format.md)
 
 # CPP Topics:
-- [Variables](./Variables.md)
-- [Input Output](./InputOutput.md)
-- [Conditionals](./Conditionals.md)
-- [Functions](./Functions.md)
-
+- [Variables](./cpp/Variables.md)
+- [Input Output](./cpp/InputOutput.md)
+- [Conditionals](./cpp/Conditionals.md)
+- [Functions](./cpp/Functions.md)
+- [Arrays](./cpp/Arrays.md)

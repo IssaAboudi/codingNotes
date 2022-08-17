@@ -146,4 +146,4 @@ and assume that `cout` refers to `std::cout`.
 
 ----
 
-# [Go back to the home page](HomePage.md)
+# [Go back to the home page](../Home.md)
