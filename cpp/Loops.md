@@ -107,10 +107,9 @@ What do you think the output will look like?
 
 There are a couple other types of loops in C++ that you should know about.
 
-### Do While
-
 Firstly is the `Do While` loop. This is exactly like a while loop, except it runs code before it checks the condition. 
 
+### Do While Loops
 **Do While:**
 
 ```c++
