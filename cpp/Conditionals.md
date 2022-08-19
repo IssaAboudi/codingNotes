@@ -214,4 +214,4 @@ Were you right? As an exercise, comment out each line of the program given above
 
 
 ---
-# [Go back to the home page](../Home.md)
+# [Go back to the home page](../home.md)

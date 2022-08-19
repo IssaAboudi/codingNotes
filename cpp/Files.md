@@ -11,7 +11,7 @@ I strongly encourage that you read about loops before continuing on with files. 
 
 When programs run, they run in a part of the computer called RAM (Random Access Memory). When we work with variables and perform calculations, those operations and variables are located in memory. When the computer is turned off, that memory is wiped and all data will be lost. Using files means that the data you're working with can persist between reboots.
 
-Files are stored on the disk - hard drives/SSD (solid state drives). Read more about [hard drives](https://en.wikipedia.org/wiki/Hard_disk_drive) and [SSDs](https://en.wikipedia.org/wiki/Solid-state_drive).
+Files are stored on the disk - hard drives/SSD (solid state drives). Read more about [hard drives](https://en.wikipedia.org/wiki/Hard_disk_drive) and [SSDs](https://en.wikipedia.org/wiki/Solid-state_drive) for more information about the differences between them. When I say "disk", I am using that word to mean either SSD or Hard Drives since they're treated virtually the same in C++.
 
 ### talk about
 - opening a file
@@ -39,4 +39,5 @@ There are three types of file variables in `fstream`:
 
 ### So what do we do with our file variable?
 
-As stated earlier, the file variable is a 
+As stated earlier, the file variable is our way of linking a file to use within our C++ program. For simplicity, we'll work with a text file - you can use whatever file types you want (or create your own).
+
