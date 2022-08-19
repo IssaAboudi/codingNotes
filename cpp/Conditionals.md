@@ -157,8 +157,8 @@ condition to evaluate as true
 
 We can explore this in a Truth Table:
 
-<img src="https://i.imgur.com/bmRiV02.png" width="300"/>
-<img src="https://i.imgur.com/6BfPBKP.png" width="290"/>
+<img src="../pictures/and-truth-table.png" width="300"/>
+<img src="../pictures/or-truth-table.png" width="290"/>
 
 In an `AND` operation, both A and B have to be 1 (`True`) to result in a 1 (All subconditions must
 be true in order for the whole condition to be true). However, in the `OR` operation, the
@@ -187,7 +187,7 @@ if(!value) { //the code below will only execute when value is "not false" aka "t
 The `!` operator also works with assignment - You can assign the `!` of a boolean
 variable.
 
-<img src="https://i.imgur.com/r2z1W0a.png" width="290"/>
+<img src="../pictures/not-truth-table.png" width="290"/>
 
 Take a look at the following code and predict what the output is:
 
