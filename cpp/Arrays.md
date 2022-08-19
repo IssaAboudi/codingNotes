@@ -6,7 +6,7 @@ Arrays are the first data structure you will encounter in college and university
 
 An array is defined in most textbooks as a "contiguous block of memory". Essentially you can think of an array as a container of variables located next to each other in Computer Memory.
 
-<img src="TODO" width="290"/> <!-- Drawing of computer memory in #pastebin-->
+<img src="../pictures/array-memory-drawn.png" width="290"/> <!-- Drawing of computer memory in #pastebin-->
 
 As you can see in the above image, when we declare a variable, a certain amount of space is allocated in computer memory. "X", which contains 5, is a int variable. "array" is an array of integers and has 4 spaces or **indices**. Each index can be thought of as it's own variable equivalent similar to "X"
 
@@ -160,4 +160,4 @@ This is fundamentally how vectors work!
 
 
 ---
-# [Go back to the home page](../Home.md)
+# [Go back to the home page](../home.md)

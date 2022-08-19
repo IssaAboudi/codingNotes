@@ -65,12 +65,12 @@ You can use pretty much any data type as the return type. Some common return typ
 Unfortunately, We can only return one thing from a function. There is a way to get around
 this limitation however through classes which we will cover soon!
 
-###Visual Abstraction of a Function
+### Visual Abstraction of a Function
 
 Rather than imagining functions as blocks of code, lets abstract them as machines 
 that perform actions (and the details for how they perform the actions don't matter)
 
-<img src="https://i.imgur.com/DrCXGkh.png" width="700">
+<img src="../pictures/function-drawn.png" width="700">
 
 ### Example: Addition function
 
@@ -135,9 +135,9 @@ When we pass arguments to a function, the values sent to the function get copied
 variables inside the parameters. In the above add function, 5 and 20 were copied to the
 variable `num1` while 10 and 150 were copied to the variable `num2`.
 
-We can illustrate this process as such:
+As we illustrated above:
 
-<img src="https://i.imgur.com/og6fEIO.png" width="700">
+<img src="../pictures/function-drawn.png" width="700">
 
 The variables inside the add function; `num1`, `num2`, and `sum` are all deleted when
 the compiler reaches the end of the function. We also cannot access the variables from
