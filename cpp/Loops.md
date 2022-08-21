@@ -16,7 +16,7 @@ If we want this code to print "Hello" five times, we could copy and paste those 
   std::cout << "Hello" << std::endl;
 ```
 
-But this is incredibly messy and clutters up the code. Loops let us do this code in a much more elegant and clean way.
+But this is pretty messy and clutters up the code. Loops let us do this code in a much more elegant and easy to read way.
 
 ## "For" loops
 
