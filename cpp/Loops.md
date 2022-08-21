@@ -16,7 +16,7 @@ If we want this code to print "Hello" five times, we could copy and paste those 
   std::cout << "Hello" << std::endl;
 ```
 
-But this is incredibly messy and "spaghetti" coding. Loops let us do this code in a much more elegant and clean way.
+But this is incredibly messy and clutters up the code. Loops let us do this code in a much more elegant and clean way.
 
 ## "For" loops
 
@@ -109,7 +109,7 @@ There are a couple other types of loops in C++ that you should know about.
 
 Firstly is the `Do While` loop. This is exactly like a while loop, except it runs code before it checks the condition. 
 
-### Do While Loops
+### Do While **Loops**
 **Do While:**
 
 ```c++
