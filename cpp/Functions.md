@@ -179,4 +179,4 @@ when you are done to verify that you've done this correctly.
 
 ----
 
-# [Go back to the home page](../Home.md)
+# [Go back to the home page](../home.md)

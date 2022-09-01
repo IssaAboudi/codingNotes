@@ -240,4 +240,4 @@ types. Also experiment with clearing the buffer. What happens if you don't clear
 the buffer when taking in strings? doubles? chars?
 
 ---
-# [Go back to the home page](../Home.md)
+# [Go back to the home page](../home.md)

@@ -143,4 +143,4 @@ used to their differences. Try storing numbers in a `char` as a challenge!
 
 ---
 
-# [Go back to the home page](../Home.md)
+# [Go back to the home page](../home.md)
