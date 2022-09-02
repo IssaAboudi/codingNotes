@@ -89,7 +89,7 @@ It's recommended to always have some sort of way to break the loop. Speaking of 
 
 ```c++
     for(int i = 0; i < 5; i++){
-        if( i == 2){
+        if(i == 2){
             break;
         }
         std::cout << i << std::endl;
@@ -102,6 +102,8 @@ What do you think the output will look like?
     0
     1
 ```
+
+It broke out of the loop before it ran the `std::cout` line of code, which is why we don't see a 2 be printed to the screen even though we got to `i == 2`
 
 ## Other loops:
 

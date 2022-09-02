@@ -12,3 +12,5 @@
 - [Functions](./cpp/Functions.md)
 - [Loops](./cpp/Loops.md)
 - [Arrays](./cpp/Arrays.md)
+- [Files](./cpp/Files.md)
+<!-- - [Stack](./cpp/Stack.md) -->
